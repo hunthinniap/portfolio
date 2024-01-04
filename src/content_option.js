@@ -1,18 +1,18 @@
-const logotext = "JOHN";
+const logotext = "Hookah's Art Space";
 const meta = {
-    title: "John Doe",
+    title: "Hookah",
     description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "Hunthinn Iap 葉雲天",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        first: "Daytime Developer",
+        second: "Nightime Songwriter",
+        third: "Pastime Photographer",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    description: "Hookah, Hunthinn Iap  (葉雲天) is from Amoy, PRC and currently in Austin, TX. He used to live in Shanghai and New York and most of his works are inspired by experience in these two cities. ",
+    your_img_url: "https://hunthinniapasset.s3.us-east-2.amazonaws.com/cover_PAGE.jpg",
 };
 
 const dataabout = {
@@ -73,8 +73,8 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "./photo_selection/train/DSC05923.jpg",
+        description: "New York folds and unfolds everyday.",
         link: "#",
     },
     {
@@ -147,10 +147,9 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/hunthinniap",
+    linkedin: "https://www.linkedin.com/in/yuntianye/",
+    instagram: "https://www.instagram.com/iap.hunthinn/",
 };
 export {
     meta,

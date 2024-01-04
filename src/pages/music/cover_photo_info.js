@@ -1,0 +1,8 @@
+
+
+const coverphotos  = [
+];
+
+export {
+    coverphotos,
+};
